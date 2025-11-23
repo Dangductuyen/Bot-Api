@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timedelta
 
 # Điền token bot 
-TOKEN = "8216004292:AAHNWPVbBBbs51hElngcNRZ879chsYPtQrQ"
+TOKEN = "abcd"
 bot = telebot.TeleBot(TOKEN)
 
 
@@ -328,3 +328,4 @@ Profile: https://ductuyen-info.pages.dev \n
 
 print("Bot đang chạy...")
 bot.infinity_polling()
+
